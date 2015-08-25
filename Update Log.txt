@@ -1,0 +1,43 @@
+Need clan chat icons done client-sided - fixed clan chat
+Need exchange on pikkupstix done client side - added summoning exchange
+Need button from tourny to be send id: 35606 - added search dialogue
+
+- Added charm exchange for experience.
+
+- Added custom skill system:
+
+	- Rewrote interfaces and fixed all occurences
+	- Added Action system
+	- Skills:
+		- Cooking :
+			- EVERY single runescape cookable item done.
+		- Crafting :
+			- Battlestave,
+			- Snakeskin
+			- leather and d'hide 
+			- Jewelry
+			- Flax/etc
+			- Gem 
+			- Glassblowing
+			- Poterry
+			- Weaving
+		- Herblore:
+			- Weapon poisoning
+			- Potion making
+			- All grindables
+			- Coconut
+			- Herb id
+			- Decanting / mixing
+			- Salamanders
+		- Fletching
+			- Bolts
+			- Bows
+			- Stringing
+			- Arrow
+			- Crossbows
+			- Darts
+		- Mining
+			- All mining spots
+		- Woodcutting
+			- All woodcutting spots
+			- Lumberjack
