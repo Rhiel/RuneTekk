@@ -41,3 +41,33 @@ Need button from tourny to be send id: 35606 - added search dialogue
 		- Woodcutting
 			- All woodcutting spots
 			- Lumberjack
+		- Smithing
+			- All working armour to be smithed
+			- Spirit Shields
+			- Godswords 
+			- DFS
+		- Fishing
+			- All spots
+			- Tools required
+		- Firemaking
+			- Clipped
+			- All logs supported
+			- Cooking on fires
+		- Thieving
+			- Stalls
+			- NPCS
+		- Runecrafting
+			- All altars
+			- Pouches
+		- Slayer
+			- complexities by slayer master
+			- all slayer masters
+			
+	- Added skill guide interface on skill click
+	
+	- BH targeting system
+		- EP and killstreak system
+		- Random coin generated upon target and killstreak
+		- Possible rare item drop
+		
+	
