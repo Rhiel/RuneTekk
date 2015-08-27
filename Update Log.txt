@@ -2,6 +2,17 @@ Need clan chat icons done client-sided - fixed clan chat
 Need exchange on pikkupstix done client side - added summoning exchange
 Need button from tourny to be send id: 35606 - added search dialogue
 
+TODO: CLIENT_SIDE:
+
+				- Mapdata for salamanders 
+					- desert, swamp, ZMI, wilderness
+				
+				- Missing magic icon in tab
+				
+				- Missing 2 emtoes in tab
+				
+				- MODEL HEADER for 602 option
+
 - Added charm exchange for experience.
 
 - Added custom skill system:
